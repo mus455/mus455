@@ -1,3 +1,3 @@
 - 👋 Hey, I'm @mus455
-- My interests are in sysadmin field, both linux and windows servers, databases, android, microcontrollers (esp32, esp8266, atmega and M5 stack), energy efficent computing, etc.
-- I have most exp in linux field and managing/development in posgreSQL and mysql. I'm currently learning docker, linux and windows server and themes such as replication, failover services and container/service redundancy
+- My interests are in sysadmin field, both linux and windows servers, databases, android, energy efficent computing.
+ I'm currently learning docker, linux and windows server and themes such as replication, failover services and container/service redundancy
